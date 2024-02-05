@@ -1,4 +1,4 @@
 baseURL = 'https://dawlab.pl/'
 languageCode = 'pl-pl'
-title = 'My New Hugo Site'
+title = 'dawlab.pl'
 theme = 'paper'
